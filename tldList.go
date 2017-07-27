@@ -5,6 +5,7 @@ var (
 	// update the list you should update the version as well.
 	TLDver = "2017072501"
 
+	// TLDs is TLD list from IANA.
 	TLDs = [][]byte{
 		[]byte("aaa"),
 		[]byte("aarp"),
